@@ -26,7 +26,13 @@ body {
   /*font-family: 'Quicksand', Arial, Helvetica, sans-serif;*/
   font-size: 16px;
   line-height: 1.7;
-  color: #383340;
+  color:black;
+}
+
+/*map  responsive */
+.map-responsive{
+  display: flex;
+  justify-content: center;
 }
 /*Custom  jenis huruf dan ukuran huruf untuk  Navbar*/
 .nav-item  {
@@ -40,7 +46,7 @@ body {
 }
 /*text keunikan */
 .text-unik {
-  font-size:15px;
+  font-size:10px;
   text-align:center;
 }
 
