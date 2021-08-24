@@ -22,7 +22,7 @@
   --line-height: 1.7;
 }
 body {
-  font-family: dosis;
+  font-family: 'Quicksand', sans-serif;
   /*font-family: 'Quicksand', Arial, Helvetica, sans-serif;*/
   font-size: 16px;
   line-height: 1.7;
@@ -31,9 +31,12 @@ body {
 /*Custom  jenis huruf dan ukuran huruf untuk  Navbar*/
 .nav-item  {
   font-size:16px;
-  font-family: dosis;
-  font-weight: bold;
+  /*Mengubah bentuk font  menjadi  quicksand*/
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder;
   color:black;
+  padding:5px;
+
 }
 /*text keunikan */
 .text-unik {
